@@ -1,0 +1,5 @@
+{
+  "name": "UniClubs",
+  "description": "A comprehensive university club management platform featuring role-based access, event tracking, and AI-powered club recommendations.",
+  "requestFramePermissions": []
+}
